@@ -1,0 +1,15 @@
+name: insurance_prediction
+
+channels:
+- conda-forge
+
+dependencies:
+- jupyterlab
+- matplotlib
+- numpy
+- pandas
+- pip
+- python>=3.9
+- scikit-learn
+- seaborn
+
