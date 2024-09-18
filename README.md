@@ -34,4 +34,3 @@ micromamba activate dimensionality_reduction
 
 -- connect the jupyter lab and write python code
 jupyter lab
-# dimensionality_reduction
