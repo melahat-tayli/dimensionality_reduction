@@ -1,9 +1,12 @@
 # dimensionality_reduction
 
 ## About this Project
-A 2020 Turkish study1 demonstrated that two distinct raisin varieties, Kecimen and Besni, could be accurately classified based on image-derived morphological features. These features included area, major axis length, minor axis length, eccentricity, convex area, and extent perimeter.
+A 2020 Turkish study <sup>1</sup> demonstrated that two distinct raisin varieties, Kecimen and Besni, could be accurately classified based on image-derived morphological features. These features included area, major axis length, minor axis length, eccentricity, convex area, and extent perimeter.
 
 To simplify interpretation and enhance computational efficiency, it's worth exploring dimensionality reduction techniques for this dataset. By reducing the number of features while preserving essential information, we can potentially streamline the classification process and gain a clearer understanding of the key morphological characteristics that differentiate these raisin types."
+
+#### References
+1 - https://archive.ics.uci.edu/dataset/850/raisin
 
 
 ### Tools
