@@ -1,4 +1,4 @@
-name: insurance_prediction
+name: dimensionality_reduction
 
 channels:
 - conda-forge
