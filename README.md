@@ -1,5 +1,3 @@
-# dimensionality_reduction
-
 ## About this Project
 A 2020 Turkish study <sup>1</sup> demonstrated that two distinct raisin varieties, Kecimen and Besni, could be accurately classified based on image-derived morphological features. These features included area, major axis length, minor axis length, eccentricity, convex area, and extent perimeter.
 
